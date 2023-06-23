@@ -1,7 +1,7 @@
 # Project ASM
 
 ## Introduce
-Contains some small Python projects from "Applied Mathematics and Statistics" course at FIT-HCMUS.
+Some small Python projects from "Applied Mathematics and Statistics" course at FIT-HCMUS.
 
 ## File and Folder
 ### File
