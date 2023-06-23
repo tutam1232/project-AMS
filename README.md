@@ -1,4 +1,4 @@
-# Project ASM
+# Project AMS
 
 ## Introduce
 Some small Python projects from "Applied Mathematics and Statistics" course at FIT-HCMUS.
